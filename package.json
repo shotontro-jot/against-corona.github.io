@@ -1,5 +1,6 @@
 {
   "name": "shotontrojot-against-corona",
+  "homepage": "https://shotontro-jot.github.io/against-corona/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +11,6 @@
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
   },
-  "homepage": "https://shotontro-jot.github.io/against-corona/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
